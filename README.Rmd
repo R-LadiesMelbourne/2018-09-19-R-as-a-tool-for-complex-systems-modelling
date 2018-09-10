@@ -1,0 +1,19 @@
+---
+title: "R as a tool for complex systems modelling"
+author: "Caitlin Adams, Mathematical Modeller at Mezo Research and PhD in Astrophysics at Swinburne University of Technology"
+date: "19th September 2018"
+output:
+  github_document:
+    toc: yes
+    toc_depth: 3
+  html_document:
+    toc: yes
+    toc_depth: 3
+linkcolor: magenta
+urlcolor: magenta
+---
+
+Find slides at 
+
+
+
